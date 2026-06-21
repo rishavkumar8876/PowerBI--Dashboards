@@ -41,8 +41,6 @@ This Power BI dashboard provides a comprehensive analysis of ecommerce sales per
 - KPI Development
 - Business Intelligence Reporting
 
-## Dashboard Preview
-![Ecommerce Dashboard](Ecommerce_Dashboard.png)
 
 ## Author
 Rishav Kumar
