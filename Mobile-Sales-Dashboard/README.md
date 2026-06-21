@@ -43,7 +43,7 @@ This Power BI dashboard analyzes mobile phone sales performance across different
 - Data Visualization
 
 ## Dashboard Preview
-![Mobile Sales Dashboard](Mobile_Dashboard.png)
+![Mobile Sales Dashboard](Mobile Sales Dashboard.png)
 
 ## Author
 Rishav Kumar
